@@ -8,7 +8,7 @@ Er bietet grundlegende mathematische Operationen wie Addition, Subtraktion, Mult
 ## 🚀 Demo
 
 👉 [Hier klicken, um die Live-Demo anzusehen](https://github.com/Jafar-Alizadeh/Taschen_Rechner/)  
-*(Ersetze `DeinProjektName` durch deinen tatsächlichen Repository-Namen, z. B. `Calculator`)*
+
 
 ---
 
